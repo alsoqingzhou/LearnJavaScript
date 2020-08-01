@@ -55,7 +55,7 @@ h2 {
 }
 
 .form-control input:focus {
-    outline: 0;
+    outline: 10px;
     border-color: #777777
 }
 
